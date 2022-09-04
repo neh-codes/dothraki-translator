@@ -1,5 +1,5 @@
 # dothraki-translator
-📌A transalation app developed using Vanilla JS. Transalates English language to Dothraki.
+📌A translation app developed using Vanilla JS. Translates English language to Dothraki.
 
 📌 Tech Stack: HTML, CSS, JavaScript
 
